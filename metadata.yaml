@@ -1,10 +1,16 @@
 _repo: Touring-Afoot_47906
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47906-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: Fordyce, Claude Powell
     gutenberg_agent_id: '44519'
     url: http://www.gutenberg.org/2009/agents/44519
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47906#Touring-Afoot
 gutenberg_issued: '2015-01-08'
 gutenberg_type: Text
 identifiers:
